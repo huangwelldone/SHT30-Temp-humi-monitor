@@ -1,0 +1,3 @@
+../Drivers/BSP/Src/bsp_sht30.c:5:16:CRC8_Calculate	4
+../Drivers/BSP/Src/bsp_sht30.c:21:14:SHT30_Init	2
+../Drivers/BSP/Src/bsp_sht30.c:31:14:SHT30_ReadData	5
